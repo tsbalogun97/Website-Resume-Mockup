@@ -2,7 +2,7 @@
   background-color:grey;
   height:22vh;
   padding-top:10px;
-  color:white;
+  color: blue;
 }
 .introContainer{
   border:solid black;
@@ -112,7 +112,7 @@
 }
 .mainOne{
   border:solid black;
-  background-color:pink;
+  background-color:orangered;
   height:32px;
   margin:1em;
   text-align:center;
